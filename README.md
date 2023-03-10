@@ -1,2 +1,2 @@
 # AWSM
-AWSM - AWSM was social media. You can read awesome.
+AWSM - AWSM was social media. Pronounced just like 'awesome'.
